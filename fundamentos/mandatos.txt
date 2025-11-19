@@ -1,0 +1,15 @@
+#investigar los siguientes conceptos usando la IA
+
+Cuestionario #1 = {
+1: Datos
+2: Informacion 
+3: Diferencia entre datos e Informacion
+4: Base de Datos
+5: Tipos de Base de Datos
+6: Caracteristicas de las bases de datos relacionales 
+7: Caracteristicas de las bases de datos no relacionales 
+8: Gestores de base de datos relacionales 
+9: Gestores de base de datos no relacionales
+10 Importancia de las base de datos en Big data y/o ciencia de los datos
+}
+print(cuestionario_#1)
